@@ -1,6 +1,6 @@
-# NSAG M15 — Implementation Readiness
+# NSAG M15 — Isolation, Confinement, and Extreme Environment Governance
 
-Retired NSAG prototype module covering Implementation Readiness.
+Retired standalone deployment of NSAG module M15, Isolation, Confinement, and Extreme Environment Governance (Space & Extreme Environments). The module's canonical page is https://nsag-site.vercel.app/m15.
 
 **Live:** https://nsag-m15.vercel.app
 
@@ -10,7 +10,7 @@ This prototype has been retired. The deployment remains online as a record; it i
 
 ## Repository contents
 
-`index.html`, `vercel.json`
+`index.html`, `vercel.json`, `og.png`, `favicon.svg`, `apple-touch-icon.png`
 
 ## Local development
 
